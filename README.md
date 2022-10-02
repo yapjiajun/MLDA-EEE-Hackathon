@@ -12,10 +12,13 @@ The reason why we wanted to work on this project is because of the increasing ca
 Pytorch and Yolov5 -- Training of Models
 Roboflow -- Getting Data Sets
 
+## Images
+![This is an image of the deep learning model](https://user-images.githubusercontent.com/79196462/193453505-179008a3-c147-4701-be0d-3d221f669d0d.png)
+
 ## Credits
 - Brad Dwyer from Roboflow
 
-License
+##License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
